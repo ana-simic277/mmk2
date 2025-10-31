@@ -1,0 +1,50 @@
+
+body h1 {
+    text-align: center;
+    color:  rgb(0, 0, 0);
+    font-family: Verdana;
+    font-size:40px;
+    display: block;
+}
+body h2 {
+    text-align: center;
+    color:  rgb(0, 0, 0);
+    font-family: Verdana;
+    font-size:17px;
+    display: block;
+}
+body h2 strong span {
+    text-align: center;
+    color: rgb(33, 21, 106);
+    font-size:17px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Verdana;
+    display:block;
+}
+ p {
+    font-family:Verdana; 
+    font-size:20px; 
+    color: #000000; }
+body ul li {
+    list-style: circle;
+    list-style-position: inside; 
+    color:white; 
+    font-family:Verdana; 
+    font-weight:bold; 
+    background :rgb(61, 61, 135); 
+    padding:7px;}
+body ol li {
+    list-style: decimal;
+    list-style-position: inside; 
+    color:white; 
+    font-family:Verdana; 
+    font-weight:bold; 
+    background :rgb(130, 130, 239); 
+    padding:7px;
+}
+p strong {
+    float:right;
+    font-family:Verdana; 
+    font-size:20px; 
+    color: #000000; }
